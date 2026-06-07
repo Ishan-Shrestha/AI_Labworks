@@ -18,14 +18,14 @@ pip install -r requirements.txt
 ```text
 AI_LABWORKS/
 ├── lab-1/
-│   └── lab-1.md
-│   └── maze.py
-│   └── route.py
-│   └── soduko.py
-├── lab-1_assignment/
-│   └── Heart_Disease_Prediction.csv
-│   └── task-1.ipynb
-│   └── task-2.ipynb
+│   ├── lab-1.md
+│   ├── maze.py
+│   ├── route.py
+│   ├── soduko.py
+|   └── lab-1_assignment/
+│       ├── Heart_Disease_Prediction.csv
+│       ├── task-1.ipynb
+│       └── task-2.ipynb
 ├── .gitignore
 ├── README.md
 └── requirement.txt
